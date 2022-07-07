@@ -15,7 +15,7 @@ import javax.ws.rs.core.Response;
 import org.wittho.dto.PersonDto;
 import org.wittho.service.PersonService;
 
-@Path("/")
+@Path("/wittho")
 @Consumes(MediaType.APPLICATION_JSON)
 @Produces(MediaType.APPLICATION_JSON)
 public class PersonController {

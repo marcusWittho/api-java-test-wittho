@@ -1,10 +1,10 @@
 # Projeto desenvolvido utilizando o Quarkus
 
 ### Tecnologias utilizadas:
-  JUnit5
-  Rest Assured
-  MySQL
-  Hibernate com Panache
+  JUnit5,
+  Rest Assured,
+  MySQL,
+  Hibernate com Panache,
   Maven
 
 ## Para rodar a aplicação em modo de desenvolvimento
